@@ -1,0 +1,44 @@
+#root {
+ width: 100%;
+ 
+  
+}
+
+
+.box{
+  background-color:rgba(139, 109, 109, 0.153);
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.wrape{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  font-size: 15px;
+  
+}
+.cl{
+  color: rgb(27, 28, 29);
+  font-size: 30px;
+  margin: top;
+  left: 20px;
+  font-size: 17px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 4px;
+    min-height: 24px;
+}
+  
+
+.cl2{
+  color: rgb(19, 18, 18);
+  font-size: 20px;
+  justify-content: center;
+  position: relative;
+  
+}
+
